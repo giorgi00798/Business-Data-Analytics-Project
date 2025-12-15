@@ -25,9 +25,9 @@ All results presented in the dissertation are generated from this notebook.
 The project uses the Kaggle dataset **"Formula 1 World Championship (1950-2024)"**.
 
 The dataset includes information about races, drivers, constructors, qualifying, sprint races and pit stops.
-The notebook download the data using `kagglehub`.
+The notebook downloads the data using `kagglehub`.
 
-## Hot to reproduce the results
+## How to reproduce the results
 
 1. Open the notebook in Google Colab.
 2. Run the cells sequentially from top to bottom.
